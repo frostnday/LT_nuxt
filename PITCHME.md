@@ -116,8 +116,8 @@ yarn generate
 
 ### netlifyでgithub経由で自動デプロイする
 - gitHubのブランチ名　|
-- buildコマンド(今回は **yarn generate** ) |
-- 対象のディレクトリ (デフォルトだと **dist** ) |
+- buildコマンド(今回は yarn generate ) |
+- 対象のディレクトリ (デフォルトだと dist ) |
 
 ---
 ### OR
