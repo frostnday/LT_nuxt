@@ -4,8 +4,10 @@
 ---
 
 ### 自己紹介
+![Logo](https://pbs.twimg.com/profile_images/1018658995127574528/99ZqXbyy_150x150.jpg)
 - もりー
-- Graspyというサービスの プロマネ兼メイン開発エンジニア
+- Graspy:プロマネ兼メイン開発エンジニア
+
 --- 
 
 ### 今回は Nuxt + Netlify + GASで
