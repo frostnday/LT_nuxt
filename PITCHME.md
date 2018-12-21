@@ -86,7 +86,7 @@ yarn add -D node-sass sass-loader
 
 ---
 
-### GoogleAppScriptでAPIサーバーを作る
+### GASでAPIサーバーを作る
 
 - 登録されたデータを保存するためにGoogleスプレッドシートを作成します |
 - スプレットシート書き込む機能とメールを自動送信するAPIをGASで作成します |
