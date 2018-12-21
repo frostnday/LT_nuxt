@@ -1,0 +1,4 @@
+theme : black
+highlight : monokai-sublime
+slide-number: true
+transition : fade
