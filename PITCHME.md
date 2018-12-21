@@ -98,7 +98,7 @@ yarn generate
 ---
 ### netlifyでデプロイする
 - gitHubのブランチ名
-- buildコマンド(今回は 'yarn generate')
+- buildコマンド(今回は `yarn generate`)
 - 対象のディレクトリ (デフォルトだと `dist`)
 
 or 
@@ -118,11 +118,9 @@ or
 ---
 ### デメリット
 
-- GoogleTagyやmetaタグ系はnuxt.config.jsに記述しないと行けないので少しめんどくさかった
+- GoogleTagScriptやmetaタグ系はnuxt.config.jsに記述しないといけないので少しめんどくさかった
 
 ---
-
-
 
 
 
