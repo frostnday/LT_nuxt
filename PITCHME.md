@@ -1,4 +1,4 @@
-# Nuxt + netlify + GAS でサーバーレスな登録サイトを作ってみた話
+## Nuxt + netlify + GAS でサーバーレスな登録サイトを作ってみた話
 
 
 
